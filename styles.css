@@ -1,0 +1,30 @@
+body{
+    background-color: #000;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p {
+    color:#ff0569;
+    cursor:zoom-in;
+}
+li { 
+    color:rgb(225, 5, 105);
+    cursor:zoom-in;
+}
+.skilletimg {
+    width: 100%;
+    max-height: 25%;
+    max-width: 25%;
+}
+
+h1 {
+    color: #ff0569;
+}
+
+h2 {
+    color:#ff0569;
+}
+
+
+#generated-text {
+    color: white;
+}
